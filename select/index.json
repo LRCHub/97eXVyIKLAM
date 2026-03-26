@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "はじまりの未来 (Ergo ver)",
+  "base_artist": "sasakure.UK、40mP",
+  "createdAt": "2026-03-26T08:08:08.338784Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "はじまりの未来",
+      "artist": "Hatsune Miku",
+      "has_synced": true,
+      "path": "select/01_はじまりの未来_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "はじまりの未来 (Paused)",
+      "artist": "Hatsune Miku",
+      "has_synced": true,
+      "path": "select/02_はじまりの未来_(Paused)_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "はじまりの未来",
+      "artist": "Hatsune Miku, 40mP, sasakure.UK",
+      "has_synced": true,
+      "path": "select/03_はじまりの未来_Hatsune_Miku,_40mP,_sasakure.UK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "はじまりの未来 (Ergo ver)",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/04_はじまりの未来_(Ergo_ver)_40mP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "はじまりの未来",
+      "artist": "40mP × sasakure.UK feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/05_はじまりの未来_40mP_×_sasakure.UK_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "はじまりの未来",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/06_はじまりの未来_40mP.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "はじまりの未来 - The Future of Beginning",
+      "artist": "Hatsune Miku",
+      "has_synced": true,
+      "path": "select/07_はじまりの未来_-_The_Future_of_Beginning_Hatsune_Miku.lrc"
+    }
+  ]
+}
